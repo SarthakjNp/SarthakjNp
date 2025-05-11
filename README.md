@@ -1,5 +1,11 @@
 # 💫 About Me:
-## 👋 Hi, I'm Sarthak!<br><br>🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)  <br>📍 Delhi Technical Campus | 🧠 Forward-Thinker | ✍️ Poet with a Touch of Urdu<br><br>---<br><br> 🔭 I’m currently working on<br>- Advancing across multiple **machine learning domains**<br>- Applying AI techniques to solve real-world problems  <br>- Building full-stack solutions with data-driven intelligence at their core<br><br>---<br><br>  🧑‍🤝‍🧑 I’m looking to collaborate on<br>- Innovative AI/ML or data-centric systems  <br>- Open-source projects that push boundaries  <br>- Research-backed or product-focused tech initiatives<br><br>---<br><br> 🤝 I’m looking for help with<br>- Model optimization and deployment best practices  <br>- Scalable backend architectures and database design  <br>- Building a high-impact, ATS-compliant professional profile<br><br>---<br><br>  🌱 I’m currently learning<br>- Core ML algorithms and interpretable AI  <br>- Advanced Python and backend development  <br>- Computer networks, software engineering, and database systems<br><br>---<br><br> 💬 Ask me about<br>- Learning machine learning from scratch  <br>- Building impactful student-led tech projects  <br>- Merging poetry and programming — art in algorithms<br><br>---<br><br>  ⚡ Fun fact<br>By day, I train algorithms to learn.  <br>By night, I write verses that burn.  <br>In between, I breathe logic and dream in lines of code.<br>
+🔭 I’m currently working on multiple projects across diverse areas of Machine Learning, exploring both theoretical depth and real-world applications.
+
+👯 I’m looking to collaborate on cutting-edge Deep Learning projects that demand experimentation, innovation, and forward-thinking problem-solving.
+
+🤝 I’m looking for help with advancing my Data Science expertise—especially in areas like feature engineering, model tuning, and pipeline automation.
+
+🌱 I’m currently diving deep into **Deep Reinforcement Learning**, exploring how intelligent agents can learn to thrive in complex environments through trial and error.
 
 
 ## 🌐 Socials:
